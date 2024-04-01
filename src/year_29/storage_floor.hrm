@@ -1,0 +1,14 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   12
+    COPYFROM [12]
+    OUTBOX  
+    JUMP     a
+
+
+DEFINE LABEL 12
+eJwTZGBgsK6eHfy9Zu9xIJMhLVuv/09Vase1jvktIL5w16OI4rqI+hkF/cvu5sluBIldLzBL7y3hKFnV
++GNqbJv3EoZRMApGwZAFAKYAGv8;
+
