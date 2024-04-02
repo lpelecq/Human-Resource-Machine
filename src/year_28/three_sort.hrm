@@ -12,33 +12,30 @@ a:
     COPYFROM 1
     JUMP     c
 b:
-    ADD      1
     COPYTO   5
     COPYFROM 1
     COPYTO   2
-    COPYFROM 5
+    ADD      5
     COPYTO   1
 c:
     SUB      0
     JUMPN    d
     JUMP     g
 d:
-    ADD      0
     COPYTO   5
     COPYFROM 0
     COPYTO   1
-    COPYFROM 5
+    ADD      5
     COPYTO   0
     COPYFROM 2
     SUB      1
     JUMPN    e
     JUMP     f
 e:
-    ADD      1
     COPYTO   5
     COPYFROM 1
     COPYTO   2
-    COPYFROM 5
+    ADD      5
     COPYTO   1
 f:
 g:
