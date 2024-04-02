@@ -40,7 +40,7 @@ Size and/or speed are **highlighted** if the score reaches the goal.
 |32|[**16**-435](src/year_32/inventory_report-size.hrm)|
 |**34**|[**13**-**323**](src/year_34/vowel_incinerator.hrm)|
 |35|[**15**-188](src/year_35/duplicate_removal-size.hrm)|
-|36|[**37**-111](src/year_36/alphabetizer-size.hrm)|
+|**36**|[**34**-**70**](src/year_36/alphabetizer.hrm)|
 |**37**|[**8**-**63**](src/year_37/scavenger_chain.hrm)|
 |38|[32-221](src/year_38/digit_explorer.hrm)|
 |39|[16-89](src/year_39/re_coordinator.hrm)|
