@@ -44,5 +44,5 @@ Size and/or speed are **highlighted** if the score reaches the goal.
 |**37**|[**8**-**63**](src/year_37/scavenger_chain.hrm)|
 |38|[32-221](src/year_38/digit_explorer.hrm)|
 |39|[16-89](src/year_39/re_coordinator.hrm)|
-|40|[30-487](src/year_40/prime_factory.hrm)|
+|40|[30-484](src/year_40/prime_factory.hrm)|
 |41|[**32**-755](src/year_41/sorting_floor-size.hrm)|

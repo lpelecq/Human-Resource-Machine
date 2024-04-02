@@ -1,7 +1,7 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
-a:
     COPYFROM 24
+a:
     COPYTO   23
     BUMPUP   23
     BUMPUP   23
