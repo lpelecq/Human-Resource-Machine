@@ -33,7 +33,7 @@ Size and/or speed are **highlighted** if the score reaches the goal.
 |**24**|[**11**-**53**](src/year_24/mod_module.hrm)|
 |**25**|[**11**-**82**](src/year_25/cumulative_countdown.hrm)|
 |**26**|[**15**-**76**](src/year_26/small_divide.hrm)|
-|28|[39-110](src/year_28/three_sort.hrm)|
+|28|[39-110](src/year_28/three_sort-size.hrm), [71-82](src/year_28/three_sort-speed.hrm)|
 |**29**|[**5**-**25**](src/year_29/storage_floor.hrm)|
 |**30**|[**7**-**203**](src/year_30/string_storage_floor.hrm)|
 |**31**|[**11**-**118**](src/year_31/string_reverse.hrm)|
